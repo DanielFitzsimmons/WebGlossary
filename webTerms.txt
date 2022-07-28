@@ -1,2 +1,2 @@
-Common Web Terms
+Common Web Terms v2
 HTML - HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. 
