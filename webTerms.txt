@@ -2,3 +2,4 @@ Common Web Terms v2
 HTML - HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. 
 CSS - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language
 JavaScript - an object-oriented computer programming language commonly used to create interactive effects within web browsers.
+React - Javascript ......
